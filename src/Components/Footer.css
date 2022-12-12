@@ -1,0 +1,36 @@
+.footer{
+    padding-top: 60px;
+    padding-bottom: 30px;
+    background-color:#002D62;
+}
+
+.footer__text{
+    line-height: 30px;
+    color: rgb(255, 255,255,0.735);
+}
+
+.footer_quick-links ul li{
+    background: transparent !important;
+}
+
+.footer_quick-links ul li a{
+color:  rgb(255, 255,255,0.735);
+}
+
+.quick_links-title{
+    margin-top: 30px;
+    color: #fff;
+    font-size: 1.1rem;
+}
+
+.footer_quick-links span i{
+    color: white;
+}
+
+.footer__copyright{
+    text-align: center;
+    color: wheat;
+}
+.footer_quick-links p{
+color: #fff;
+}
